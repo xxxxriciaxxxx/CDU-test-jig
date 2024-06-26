@@ -1,0 +1,29 @@
+.DMY {
+    border: 0px !important;
+}
+.table1 .table2 {
+    border: 1px solid gray;
+    font-size: 100%;
+}
+.table2 td {
+    border: 1px solid gray;
+    text-align: center;
+    height: 40px;
+}
+.table1 td {
+    border: 1px solid gray;
+    text-align: center;
+    height: 40px;
+    width: 40px;
+}
+.table2 th {
+    /* display: none; */
+    height: 0px;
+    width: 25px;
+}
+.push {
+    background-color : #0F0;
+}
+img {
+    height: 40px;
+}
