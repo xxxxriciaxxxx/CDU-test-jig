@@ -1,0 +1,16 @@
+{
+  "name": "BEZELtool(検証用)",          
+  "description": "BEZEL SerialChecker", 
+  "version": "2.0",                        
+  "manifest_version": 3,                   
+
+  "app": {
+    "background": {
+      "scripts": ["background.js"]      
+    }
+  },
+  "icons": { "128": "icon.png" },  
+  "permissions": [
+     "serial"                      
+  ]
+}
